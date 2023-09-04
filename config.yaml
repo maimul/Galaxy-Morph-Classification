@@ -1,0 +1,11 @@
+# Paths
+path: /Users/maimulm2/Documents/UM/P1:P2/PyTorch Project/Main/datasets
+train: images/train
+val: images/train
+test: images/test
+
+# Classes 
+names:
+  0: 'Elliptical'
+  1: 'Spiral'
+  2: 'Irregular'

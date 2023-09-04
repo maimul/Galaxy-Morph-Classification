@@ -1,0 +1,14 @@
+names:
+- Elliptical
+- Spiral
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: galaxy-szy8k
+  url: https://universe.roboflow.com/maimul-umytk/galaxy-szy8k/dataset/8
+  version: 8
+  workspace: maimul-umytk
+path: /Users/maimulm2/Documents/UM/P1:P2/PyTorch Project/Main/datasets
+test: ../test/images
+train: Galaxy-8/train/images
+val: Galaxy-8/valid/images
